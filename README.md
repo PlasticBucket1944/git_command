@@ -59,3 +59,11 @@ git remote add origin https://github.com/<ユーザー名>/<リモートリポ�
 git add .  
 git commit -m 'first commit'  
 git push -u origin master  
+
+## その他使うコマンド
+
+ローカルブランチの削除  
+git branch -D <削除したいブランチ名>  
+
+ローカルブランチの一括削除  
+git branch | grep <削除したいブランチ名が入った文字列> | xargs git branch -d  
