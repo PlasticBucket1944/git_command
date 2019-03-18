@@ -43,8 +43,8 @@ git pull
 git checkout <作業中のブランチ名>  
 git marge master  
 
-3.ここでコンフリが起きるので修正する、修正したらコミット
-git add .
+3.ここでコンフリが起きるので修正する、修正したらコミット  
+git add .  
 git commit -m '競合を解消'  
 
 ## 開発が始まった時にする事
