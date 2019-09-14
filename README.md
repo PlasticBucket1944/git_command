@@ -35,7 +35,7 @@ git pull
 git marge master  
 
 ## コンフリしたらする事
-1.リモートのmasterにローカルのmasterに引っ張ってくる  
+1.リモートのmasterをローカルのmasterに引っ張ってくる  
 git checkout master  
 git pull  
 
