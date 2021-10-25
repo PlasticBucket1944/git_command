@@ -60,6 +60,14 @@ git add .
 git commit -m 'first commit'  
 git push -u origin master  
 
+2021/10/25：masterからmainへ主リポジトリ名が変わっているので注意
+メインのリポジトリ名を変更
+git branch -M main
+git push -u origin main
+
+その他、githubのアクセストークンの有効期限にも注意
+https://qiita.com/kz800/items/497ec70bff3e555dacd0
+
 ## その他使うコマンド
 
 ローカルブランチの削除  
