@@ -65,7 +65,7 @@ git push -u origin master
 git branch -M main  
 git push -u origin main  
 
-その他、githubのアクセストークンの有効期限にも注意  
+**その他、githubのアクセストークンの有効期限にも注意**  
 https://qiita.com/kz800/items/497ec70bff3e555dacd0  
 
 ## その他使うコマンド
